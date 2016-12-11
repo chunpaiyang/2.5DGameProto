@@ -202,6 +202,7 @@
 				TargetAttributes = {
 					F46E42511DF6E897002EBE7E = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = M4KC9458G7;
 						ProvisioningStyle = Automatic;
 					};
 					F46E426B1DF6E897002EBE7E = {
@@ -422,7 +423,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M4KC9458G7;
 				INFOPLIST_FILE = 2.5Dtest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "steveyang.--5Dtest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -434,7 +437,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M4KC9458G7;
 				INFOPLIST_FILE = 2.5Dtest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "steveyang.--5Dtest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
