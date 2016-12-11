@@ -6,4 +6,4 @@ This is a simple example which is from http://bigspritegames.com/isometric-tile-
 I modified the zposition of tiles.
 (if not set zposition of tiles, the overlap area is sometimes wrong)
 
-This project can compile with Xcode 8.1 beta and run on ios 10.1 on iphone6S well.
+This project can compile with Xcode 8.1 beta and run on ios 10.1(iphone6S) well.
